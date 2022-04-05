@@ -1,0 +1,2 @@
+# Repeater-in-OpenAL-or-ASIO
+We have the opportunity to listen to music without distortion on ASIO, for movies there is a BitStream on an external decoder. Why can't I play modern games with direct sound, without distortion, similar to how ASIO works with music and BitStream with movies in Dolby and DTS formats?Make someone direct access to sounds from modern games directly into the hardware of the sound card, for example via OpenAL or ASIO, so that the Windows system does not distort the sound, turning it into soap.
